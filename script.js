@@ -1,0 +1,13 @@
+let element=document.getElementById("main-title")
+console.log(element)
+let element1=document.getElementsByClassName("section")
+console.log(element1)
+let element2=document.getElementsByTagName("p")
+console.log(element2)
+let element3=document.querySelector(".btn")
+console.log(element3)
+let element4=document.querySelectorAll(".btn")
+console.log(element4)
+let element5=document.querySelectorAll("p")
+console.log(element5)
+
